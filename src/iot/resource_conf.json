@@ -1,0 +1,56 @@
+{
+  "hubconnectionstring": "<Azure hub connection string>",
+  "client00_connection_string": "<Azure device connection string>",
+  "api_key": "<event hup api key>",
+  "resource_group": "resourceg10",
+  "resources": [
+    {
+      "deviceData": {
+        "resourceID": "",
+        "devicestatus": "disabled"
+      },
+      "deviceID": "resource00",
+      "connectionstring": "<Azure device connection string>"
+    },
+    {
+      "deviceData": {
+        "resourceID": "",
+        "devicestatus": "disabled"
+      },
+      "deviceID": "resource01",
+      "connectionstring": "<Azure device connection string>"
+    },
+    {
+      "deviceData": {
+        "resourceID": "",
+        "devicestatus": "disabled"
+      },
+      "deviceID": "resource02",
+      "connectionstring": "<Azure device connection string>"
+    },
+    {
+      "deviceData": {
+        "resourceID": "",
+        "devicestatus": "disabled"
+      },
+      "deviceID": "resource03",
+      "connectionstring": "<Azure device connection string>"
+    },
+    {
+      "deviceData": {
+        "resourceID": "",
+        "devicestatus": "disabled"
+      },
+      "deviceID": "resource04",
+      "connectionstring": "<Azure device connection string>"
+    },
+    {
+      "deviceData": {
+        "resourceID": "",
+        "devicestatus": "disabled"
+      },
+      "deviceID": "resource05",
+      "connectionstring": "<Azure device connection string>"
+    }
+  ]
+}
